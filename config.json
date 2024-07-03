@@ -3,7 +3,7 @@
   "metaData": {
     "icon": "icon.png",
     "category": "message"
-  }
+  },
   "type": "REST",
   "userInterfaces": {
     "configInspector": {
