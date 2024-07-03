@@ -1,4 +1,4 @@
-var connection = new Postmonger Session();
+var connection = new Postmonger.Session();
 
 // Startup Sequence
 connection trigger( 'ready');
